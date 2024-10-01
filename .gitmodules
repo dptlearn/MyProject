@@ -1,3 +1,6 @@
 [submodule "React Native/ToDoApp_ReactNative"]
 	path = React Native/ToDoApp_ReactNative
 	url = https://github.com/dptlearn/ToDoApp_ReactNative.git
+[submodule "React Native/TicTacToe"]
+	path = React Native/TicTacToe
+	url = https://github.com/dptlearn/TicTacToe.git
