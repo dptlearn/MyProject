@@ -7,3 +7,6 @@
 [submodule "TkinterCalculator"]
 	path = TkinterCalculator
 	url = https://github.com/dptlearn/TkinterCalculator.git
+[submodule "Python/TkinterCalculator"]
+	path = Python/TkinterCalculator
+	url = https://github.com/dptlearn/TkinterCalculator.git
