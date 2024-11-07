@@ -10,3 +10,6 @@
 [submodule "Python/TkinterCalculator"]
 	path = Python/TkinterCalculator
 	url = https://github.com/dptlearn/TkinterCalculator.git
+[submodule "Python/PasswordGenerator"]
+	path = Python/PasswordGenerator
+	url = git@github.com:dptlearn/PasswordGenerator.git
