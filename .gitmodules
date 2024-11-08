@@ -13,3 +13,6 @@
 [submodule "Python/PasswordGenerator"]
 	path = Python/PasswordGenerator
 	url = git@github.com:dptlearn/PasswordGenerator.git
+[submodule "SIM-Final-Year-Project-Group-"]
+	path = SIM-Final-Year-Project-Group-
+	url = https://github.com/dptlearn/SIM-Final-Year-Project-Group-.git
